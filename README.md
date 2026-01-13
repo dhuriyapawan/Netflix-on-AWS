@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Netflix-Clone
 This is the core code from scratch to clone the landing page of Netflix using **HTML, CSS and JavaScript.**
 
@@ -103,3 +104,6 @@ git push origin YourBranchName
 [![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Susmita-Dey/Netflix-Clone)
 
 </p>
+=======
+# Netflix-on-AWS
+>>>>>>> a3510c318c79a9084a3ba7d635482be746c8d179
